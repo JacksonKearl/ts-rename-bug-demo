@@ -1,3 +1,3 @@
-import { a } from "../A/a";
+import { a } from "src/A/a";
 
-a;
+a
